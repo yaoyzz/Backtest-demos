@@ -1,1 +1,3 @@
 In [Backtest Report](./Backtest%20Report/), you can find several TradingView Backtest Reports for my Short (Long) one-sided strategies for different tickers, with commission set to 0.2% per trade --- to simulate high slippage during low-volume pre-market or post-market automation environment.   
+
+PS: Strategies have been created without noticeable exposure to over-fitting, and any repaint or lookahead is avoided.
